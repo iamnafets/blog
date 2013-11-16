@@ -3,6 +3,7 @@ layout: home
 title: Not much better
 modified: 11-15-2013
 tags: [blog]
+alias: [/blog, /blog/]
 image:
   feature: background.jpg
 ---
