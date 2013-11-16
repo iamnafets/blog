@@ -1,9 +1,19 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+title: Not much better
+modified: 11-15-2013
+tags: [blog]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: background.jpg
 ---
+Some people write to discover themselves. This is hard for me to believe --- everything feels like garbage once it has been given a few months to breathe. So why write?
+
+The cool thing about maintaining a long train of rubbish on the internet is tracking the evolution of a viewpoint. Too often people emphatically define who they are in a given moment without fully acknowledging the constant of change.
+
+Each post is not much better at identifying me than the post before. But the themes that fall out point to where I will be.
+
+## What you might learn from me
+
+* Pop culture is generally harmful, but means well.
+* Most things can be modelled, somehow. This knowledge is of no practical use.
+* Complexity permeates everything.

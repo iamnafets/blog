@@ -1,20 +1,20 @@
-title:            Site Title
+title:            Naf Blog
 tagline:          A short tagline
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-site.com
+#url:              http://your-site.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Stefan Mai
+  avatar:         profile.jpg
+  bio:            "Spends too much time on the internet."
+  email:          iamnafets@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        
+  twitter: iamnafets        
   facebook:       
-  github:         
-  linkedin:       
+  github: iamnafets         
+  linkedin: stefanmai
   instagram:      
   lastfm:         
   tumblr:         
@@ -30,18 +30,11 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Posts
+    url: /posts
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
